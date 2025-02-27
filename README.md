@@ -1,1 +1,1 @@
-# This my first Web-site
+# This is my first website in web development journey, I attempted to recreate the Amazon website using only HTML and CSS. I'm pretty proud of how it turned out! The layout and design are inspired by the real Amazon website
