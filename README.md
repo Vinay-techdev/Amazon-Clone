@@ -1,1 +1,3 @@
-# This is my first website in web development journey, I attempted to recreate the Amazon website using only HTML and CSS. I'm pretty proud of how it turned out! The layout and design are inspired by the real Amazon website
+# This is my first website in web development journey
+
+<br/>I attempted to recreate the Amazon website using only HTML and CSS. I'm pretty proud of how it turned out! The layout and design are inspired by the real Amazon website
